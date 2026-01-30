@@ -1,0 +1,8 @@
+Objetivo da pasta DTO (Data Transfer Object)
+
+O objetivo dessa pasta é conter arquivos com classes simples
+para transferir dados entre camadas da aplicação, como entre
+o frontend e backend. Muito útil para otimzar a comunicação
+entre as partes e manter a segurança, visto que, nos arquivos
+e classes dessa pasta, podemos escolher quais informações
+ocultar.
