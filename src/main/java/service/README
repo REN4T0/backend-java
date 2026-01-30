@@ -1,0 +1,6 @@
+Objetivo da pasta services
+
+A pasta services conterão arquivos destinados a lógica e as regras
+de negócio da aplicação, ou seja, validações e, até mesmo, manipu-
+lações complexas de manipulação de dados.
+Fonte: https://www.dio.me/articles/projeto-exemplo-em-java-usando-mvc

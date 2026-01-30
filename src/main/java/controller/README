@@ -1,0 +1,8 @@
+Objetivo da pasta controllers
+
+Nessa pasta, estarão os arquivos que recebem e processam requisi-
+ções HTTP, funcoinando como diretório para arquivos que contém
+APIs. É um intermediador do usuário com o sistema. Pode ser usa-
+do para definir rotas básicas do sistema ou operações relaciona-
+das a um determinada entidade.
+Fonte: https://www.dio.me/articles/projeto-exemplo-em-java-usando-mvc

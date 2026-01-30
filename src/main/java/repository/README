@@ -1,0 +1,6 @@
+Objetivo da pasta repositories
+
+Neste diretório, estarão arquivos destinados a métodos para manipu-
+lação de dados coletados do banco de dados, como consultas, CRUDS
+e entre outros, basicamente.
+Fonte: https://www.dio.me/articles/projeto-exemplo-em-java-usando-mvc
